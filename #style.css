@@ -1,6 +1,6 @@
 body {  
      background-color: rgb(0, 54, 67);/*cor de fundo da página*/
-color: rgb(0, 27, 67);
+     color: rgb(0, 27, 67);
 }
 header{
    border: solid 2px rgb (57,128,58) ;
@@ -10,7 +10,7 @@ header{
 }
 
      h1{
-    font-size:  30px;         /*tamanho da fonte */
+  font-size:  30px;         /*tamanho da fonte */
   text-align:   center;       /*centralizado*/
   text-transform: uppercase;  /*letras maiúsculas*/
 }
