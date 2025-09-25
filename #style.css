@@ -1,6 +1,12 @@
 body {  
-     background-color: rgb(72, 0, 255);/*cor de fundo da página*/
-color: rgb(0, 139, 12);/*cor da escrita*/
+     background-color: rgb(0, 54, 67);/*cor de fundo da página*/
+color: rgb(0, 27, 67)
+}
+header{
+   border: solid 2px rgb (57,128,58) ;
+   font-size: 32px;
+   padding: 10px;
+   color: black;
 }
 
      h1{
@@ -11,5 +17,5 @@ color: rgb(0, 139, 12);/*cor da escrita*/
 
 p {
      font-size: 16px;
-     color: rgb(250, 215, 217);
+     color: rgb(58, 101, 58);
 }
