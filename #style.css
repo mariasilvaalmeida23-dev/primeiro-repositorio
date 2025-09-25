@@ -11,8 +11,8 @@ header{
 
      h1{
   font-size:  30px;         /*tamanho da fonte */
-  text-align:   center;       /*centralizado*/
-  text-transform: uppercase;  /*letras maiúsculas*/
+  text-align:   center;       /*centralizado */
+  text-transform: uppercase;  /*letras maiúsculas */
 }
 
 p {
