@@ -2,7 +2,10 @@ body {
      background-color: rgb(0, 54, 67);/*cor de fundo da página*/
      color: rgb(0, 27, 67);/*cor da escrita*/
      font-family:"dancing",sans-serif;
+     margin: 0px;
+     margin-bottom: 100px;
 }
+
 header{
    border: solid 2px rgb (57,128,58) ;
    font-size: 32px;
@@ -11,7 +14,7 @@ header{
 }
 
 
-section {
+.chamada {
      background-color: brown; /*cor escolhida*/
      padding-bottom: 80px;
      padding-bottom: 80px;
@@ -31,5 +34,25 @@ section {
 p {
      font-size: 16px;
      color: rgb(58, 101, 58);
+}.categoria{ 
+     padding-left: 20px;
+     padding-right: 20px;
+     margin-top: 50px;
 }
+.categoria-videos {
+     display: flex;
+     overflow: auto;
+     gap: 10px;
+}
+
+.categoria-videos img {
+     opacity: 0,5;
+     height: 200px;
+}
+.categoria-videos img:hover{
+     opacity: 1.0;
+     border: 1px solid blue;
+}
+.categoria h2 {
+     color: black;
 }
