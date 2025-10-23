@@ -10,15 +10,15 @@ header{
    border: solid 2px rgb (57,128,58) ;
    font-size: 32px;
    padding: 10px;
-   color: black;
+   color: rgb(0, 0, 0);
 }
 
 
 .chamada {
-     background-color: brown; /*cor escolhida*/
+     background-color: rgb(126, 42, 165); /*cor escolhida*/
      padding-bottom: 80px;
      padding-bottom: 80px;
-     display:flex;
+     display:flex;l
      justify-content: center;
 }
 
